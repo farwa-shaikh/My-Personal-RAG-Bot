@@ -77,4 +77,7 @@ Bot: According to policy.txt, refunds are issued within 14 days of purchase...
   answer only from that context and cite sources — this is the core RAG
   pattern (retrieve, then generate grounded on what was retrieved).
 
+  Results:
+<img width="1365" height="768" alt="RAGBOT" src="https://github.com/user-attachments/assets/e042483c-b390-4df2-ba4b-e33d2de3bb19" />
+
 This Project is done by Farwa Shaikh with the help of AI Tools ;)
